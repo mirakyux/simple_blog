@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <!-- 
+    Sitemap 模板
+    部署时替换为实际的 sitemap.xml
+    
+    生成方式:
+    1. 手动更新此文件
+    2. 使用脚本自动生成（推荐）
+    3. 使用在线工具生成
+  -->
+  <url>
+    <loc>https://blog.mirakyux.com/</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- 示例文章 URL -->
+  <url>
+    <loc>https://blog.mirakyux.com/#post-slug</loc>
+    <lastmod>2026-02-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- 
+    更多文章...
+    建议使用脚本自动生成完整的 sitemap
+  -->
+</urlset>
